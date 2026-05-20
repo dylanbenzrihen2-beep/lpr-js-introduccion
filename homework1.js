@@ -5,6 +5,7 @@
 //Departamento de Informatica - EESTn°1 - Raul Scalabrini Ortiz
 
 // Trabajo Practico N°1
+//excelente
 
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
