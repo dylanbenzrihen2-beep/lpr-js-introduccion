@@ -1,5 +1,5 @@
 //Nombre y Apellido: Dylan Benzrihen
-//Curso: 5°C
+//Curso:6°C
 //Grupo:606
 //Taller de Programacion III
 //Departamento de Informatica - EESTn°1 - Raul Scalabrini Ortiz
